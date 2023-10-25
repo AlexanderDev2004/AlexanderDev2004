@@ -1,4 +1,7 @@
 # Hello Everone ✨✨
+<p align="center">
+<img src="https://user-images.githubusercontent.com/62384197/216797032-12320167-65e8-40d1-985f-e5cdea790890.gif" alt="nature-gif-banner" />
+</p>
 my name Alexander agung raya
 im study in Politeknik Negeri Malang
 I Game Devoloper | Website Devoloper
