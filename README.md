@@ -7,3 +7,4 @@
                       <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderDev2004&theme=omni&hide_border=true" />
                     </a>
                   </p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexanderDev2004=transparentx)
