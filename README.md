@@ -21,7 +21,13 @@ I’m a tech enthusiast starting my journey in web development. Currently, I’m
 ### How to Reach Me 📫
 
 - [LinkedIn](https://www.linkedin.com/in/alexanderagungraya)
+  
+---
+### STATUS
+![](https://github-readme-stats.vercel.app/api?username=Alexanderdev2004&show_icons=true&count_private=true)
 
 ---
-
 > "Never stop learning and always strive to make a positive impact through technology!" 🌟
+
+
+
