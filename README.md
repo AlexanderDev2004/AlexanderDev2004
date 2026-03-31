@@ -23,8 +23,8 @@ I’m a tech enthusiast starting my journey in web development. Currently, I’m
 - [LinkedIn](https://www.linkedin.com/in/alexanderagungraya)
   
 ---
-### STATUS
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderDev2004&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true&bg_color=000000" />
+<!--### STATUS -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AlexanderDev2004&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true&bg_color=000000" /> -->
 
 ---
 > "Never stop learning and always strive to make a positive impact through technology!" 🌟
