@@ -60,41 +60,48 @@ My current interests include **TypeScript ecosystem, software architecture, game
 
 ### 🧰 Tech & Tools
 
-<p>
-  <strong>Languages</strong><br>
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="20" alt="TypeScript"> TypeScript &nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="20" alt="JavaScript"> JavaScript &nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="20" alt="Python"> Python &nbsp;
-  <img src="https://cdn.simpleicons.org/csharp/239120" height="20" alt="C#"> C# &nbsp;
-  <img src="https://cdn.simpleicons.org/dart/0175C2" height="20" alt="Dart"> Dart
-</p>
-
-<p>
-  <strong>Web & Backend</strong><br>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="20" alt="React"> React &nbsp;
-  <img src="https://cdn.simpleicons.org/tanstack/FF4154" height="20" alt="TanStack"> TanStack &nbsp;
-  <img src="https://cdn.simpleicons.org/bun/000000" height="20" alt="Bun"> Bun &nbsp;
-  <img src="https://cdn.simpleicons.org/hono/E36002" height="20" alt="Hono"> Hono &nbsp;
-  <img src="https://cdn.simpleicons.org/django/092E20" height="20" alt="Django"> Django &nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="20" alt="Tailwind CSS"> Tailwind CSS
-</p>
-
-<p>
-  <strong>Game & Desktop Development</strong><br>
-  <img src="https://cdn.simpleicons.org/unity/000000" height="20" alt="Unity"> Unity &nbsp;
-  <img src="https://cdn.simpleicons.org/pixiv/0096FA" height="20" alt="PixiJS"> PixiJS &nbsp;
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="20" alt="Flutter"> Flutter &nbsp;
-  <img src="https://cdn.simpleicons.org/electron/47848F" height="20" alt="Electron"> Electron
-</p>
-
-<p>
-  <strong>Database, Infrastructure & Tools</strong><br>
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="20" alt="PostgreSQL"> PostgreSQL &nbsp;
-  <img src="https://cdn.simpleicons.org/drizzle/C5F74F" height="20" alt="Drizzle ORM"> Drizzle ORM &nbsp;
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="20" alt="Cloudflare"> Cloudflare &nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" height="20" alt="Git"> Git &nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="20" alt="Linux"> Linux
-</p>
+<table>
+  <tr>
+    <td>
+      <b>Languages</b><br />
+      <img src="https://img.shields.io/badge/-TypeScript-111?style=flat-square&logo=typescript&logoColor=3178C6"/>
+      <img src="https://img.shields.io/badge/-JavaScript-111?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+      <img src="https://img.shields.io/badge/-Python-111?style=flat-square&logo=python&logoColor=FFDE57"/>
+      <img src="https://img.shields.io/badge/-C%23-111?style=flat-square&logo=csharp&logoColor=239120"/>
+      <img src="https://img.shields.io/badge/-Dart-111?style=flat-square&logo=dart&logoColor=0175C2"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Web & Backend</b><br />
+      <img src="https://img.shields.io/badge/-React-111?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/-TanStack-111?style=flat-square&logo=reactquery&logoColor=FF4154"/>
+      <img src="https://img.shields.io/badge/-Bun-111?style=flat-square&logo=bun&logoColor=FBF0DF"/>
+      <img src="https://img.shields.io/badge/-Hono-111?style=flat-square&logo=hono&logoColor=E36002"/>
+      <img src="https://img.shields.io/badge/-Django-111?style=flat-square&logo=django&logoColor=092E20"/>
+      <img src="https://img.shields.io/badge/-Tailwind_CSS-111?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Game & Desktop Development</b><br />
+      <img src="https://img.shields.io/badge/-Unity-111?style=flat-square&logo=unity&logoColor=FFFFFF"/>
+      <img src="https://img.shields.io/badge/-PixiJS-111?style=flat-square&logo=pixijs&logoColor=E72264"/>
+      <img src="https://img.shields.io/badge/-Flutter-111?style=flat-square&logo=flutter&logoColor=02569B"/>
+      <img src="https://img.shields.io/badge/-Electron-111?style=flat-square&logo=electron&logoColor=47848F"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Database, Infrastructure & Tools</b><br />
+      <img src="https://img.shields.io/badge/-PostgreSQL-111?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+      <img src="https://img.shields.io/badge/-Drizzle_ORM-111?style=flat-square&logo=drizzle&logoColor=C5F74F"/>
+      <img src="https://img.shields.io/badge/-Cloudflare-111?style=flat-square&logo=cloudflare&logoColor=F38020"/>
+      <img src="https://img.shields.io/badge/-Git-111?style=flat-square&logo=git&logoColor=F05032"/>
+      <img src="https://img.shields.io/badge/-Linux-111?style=flat-square&logo=linux&logoColor=FCC624"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
