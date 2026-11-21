@@ -121,7 +121,7 @@ My current interests include **TypeScript ecosystem, software architecture, game
 - 🌐 Portfolio: [alexanderar.com](https://alexanderar.com/)
 - 💼 LinkedIn: [alexanderagungraya](https://www.linkedin.com/in/alexanderagungraya/)
 - 🐙 GitHub: [AlexanderDev2004](https://github.com/AlexanderDev2004)
-- 𝕏 X: [@ALEXGAM97320240](https://x.com/ALEXGAM97320240)
+- X: [@ALEXGAM97320240](https://x.com/ALEXGAM97320240)
 - 📄 Resume: [View my CV](https://alexanderar.com/cv_porto/alexander-porto-ats.pdf)
 - ✉️ Email: [alexanderagungraya08@gmail.com](mailto:alexanderagungraya08@gmail.com)
 
